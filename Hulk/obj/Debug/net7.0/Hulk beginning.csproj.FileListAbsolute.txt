@@ -1,0 +1,30 @@
+/home/migue/Hulk beginning/obj/Debug/net7.0/Hulk beginning.csproj.AssemblyReference.cache
+/home/migue/Hulk beginning/obj/Debug/net7.0/Hulk beginning.GeneratedMSBuildEditorConfig.editorconfig
+/home/migue/Hulk beginning/obj/Debug/net7.0/Hulk beginning.AssemblyInfoInputs.cache
+/home/migue/Hulk beginning/obj/Debug/net7.0/Hulk beginning.AssemblyInfo.cs
+/home/migue/Hulk beginning/obj/Debug/net7.0/Hulk beginning.csproj.CoreCompileInputs.cache
+/home/migue/Hulk beginning/bin/Debug/net7.0/Hulk beginning
+/home/migue/Hulk beginning/bin/Debug/net7.0/Hulk beginning.deps.json
+/home/migue/Hulk beginning/bin/Debug/net7.0/Hulk beginning.runtimeconfig.json
+/home/migue/Hulk beginning/bin/Debug/net7.0/Hulk beginning.dll
+/home/migue/Hulk beginning/bin/Debug/net7.0/Hulk beginning.pdb
+/home/migue/Hulk beginning/obj/Debug/net7.0/Hulk beginning.dll
+/home/migue/Hulk beginning/obj/Debug/net7.0/refint/Hulk beginning.dll
+/home/migue/Hulk beginning/obj/Debug/net7.0/Hulk beginning.pdb
+/home/migue/Hulk beginning/obj/Debug/net7.0/Hulk beginning.genruntimeconfig.cache
+/home/migue/Hulk beginning/obj/Debug/net7.0/ref/Hulk beginning.dll
+/home/migue/Hulk/bin/Debug/net7.0/Hulk beginning
+/home/migue/Hulk/bin/Debug/net7.0/Hulk beginning.deps.json
+/home/migue/Hulk/bin/Debug/net7.0/Hulk beginning.runtimeconfig.json
+/home/migue/Hulk/bin/Debug/net7.0/Hulk beginning.dll
+/home/migue/Hulk/bin/Debug/net7.0/Hulk beginning.pdb
+/home/migue/Hulk/obj/Debug/net7.0/Hulk beginning.csproj.AssemblyReference.cache
+/home/migue/Hulk/obj/Debug/net7.0/Hulk beginning.GeneratedMSBuildEditorConfig.editorconfig
+/home/migue/Hulk/obj/Debug/net7.0/Hulk beginning.AssemblyInfoInputs.cache
+/home/migue/Hulk/obj/Debug/net7.0/Hulk beginning.AssemblyInfo.cs
+/home/migue/Hulk/obj/Debug/net7.0/Hulk beginning.csproj.CoreCompileInputs.cache
+/home/migue/Hulk/obj/Debug/net7.0/Hulk beginning.dll
+/home/migue/Hulk/obj/Debug/net7.0/refint/Hulk beginning.dll
+/home/migue/Hulk/obj/Debug/net7.0/Hulk beginning.pdb
+/home/migue/Hulk/obj/Debug/net7.0/Hulk beginning.genruntimeconfig.cache
+/home/migue/Hulk/obj/Debug/net7.0/ref/Hulk beginning.dll
