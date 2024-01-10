@@ -1,6 +1,6 @@
 En este proyecto el objetivo es implementar una version reducida del lenguaje H.U.L.K. 
 En principio consta de una carpeta Engine, que es donde esta implementado todo el funcionamiento del lenguaje, un script de bash para acceder a la aplicación del proyecto y este archivo.
-IMPORTANTE: No se garantiza el correcto funcionamiento del script en SO Windows.
+IMPORTANTE: No se garantiza el correcto funcionamiento del script en un SO distinto a Linux.
 
 Funcionalidades Faltantes:
 -Soporte para recursividad
